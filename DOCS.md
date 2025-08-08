@@ -20,3 +20,11 @@ Props
     - function parameters
     - data passing system in react
     - props are read only
+
+State
+    - memory ng component
+    - data that can change over time inside the component
+    - count is current value
+    - setCount function to update it
+    - useState(0) initial value
+    - state is asynchronus
