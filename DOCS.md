@@ -15,3 +15,8 @@ JSX
     - attributes are camelCase: className, htmlFor, onClick
     - self closing tags must end with /
     - jsx complies to React.createElement()
+
+Props
+    - function parameters
+    - data passing system in react
+    - props are read only
