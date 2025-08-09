@@ -28,3 +28,11 @@ State
     - setCount function to update it
     - useState(0) initial value
     - state is asynchronus
+
+Events
+    - attach events using camelCase
+    - pass function reference not function call
+    - inline arrow functions kung may arguements
+
+Hooks
+    - 
