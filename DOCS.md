@@ -35,4 +35,8 @@ Events
     - inline arrow functions kung may arguements
 
 Hooks
-    - 
+    - special react function na nagbibigay ng extra powers sa functional components
+    - built-in hooks:
+        - useState: reactive data
+        - useEffect: para sa side effects (API calls, timers, subscription)
+        - useRef: para sa direct DOM access or values na hindi nag rerender kapag nagbago
