@@ -40,3 +40,9 @@ Hooks
         - useState: reactive data
         - useEffect: para sa side effects (API calls, timers, subscription)
         - useRef: para sa direct DOM access or values na hindi nag rerender kapag nagbago
+
+Conditional Rendering
+    - show or hide UI based on condition
+    - parang if else pero sa JSX
+    - ternary operation (most common)
+    - logical && (show something only if it's true)
