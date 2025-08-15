@@ -60,5 +60,36 @@ Tailwind Install / Setup sa React Project
 
     - may nilagay din pala ako sa index.css inside ng src tapos cinall out ko siya sa loob ng main.jsx
 
-Tailwind Utility Classes
-    - 
+Tailwind Layout
+
+Flexbox
+
+Active Flex Layout:
+    - flex: horizontal by default
+    - flex-col: vertical layout
+
+Align Items:
+    - items-start
+    - items-center
+    - items-end
+
+Justify Content:
+    - justify-start
+    - justify-center
+    - justify-between
+    - justify-around
+    - justify-evenly
+
+Gap Between Items:
+    - gap-1 and so on...
+
+Grid
+
+Activate Grid Layout:
+    - grid
+
+Number of Columns:
+    - grid-cols-num
+
+Gap Between Cells:
+    - gap-4
