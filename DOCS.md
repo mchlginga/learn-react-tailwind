@@ -46,3 +46,19 @@ Conditional Rendering
     - parang if else pero sa JSX
     - ternary operation (most common)
     - logical && (show something only if it's true)
+
+---
+
+Tailwind
+    - utility first CSS framework > parang lego styles
+    - instead of writing CCS files, gagamit ka ng class names para mag style
+
+Tailwind Install / Setup sa React Project
+    - ayaw gumawa saken ng npx, nag manual configuration nalang ako, pero nag try akong isolve like ilabas sa onedrive, i clear yung cache, reinstall ulit yung npm modules, ayaw parin. Sure ako sa npx yung may problema don, sayang oras para ifigure out pa kaya nag manual creation nalang ng configuration
+
+    - yung pag manual is gumawa ako ng tailwind.config.js, postcss.config.js, tapos ES modules gamit ko don kase nung CommonJS nag error e
+
+    - may nilagay din pala ako sa index.css inside ng src tapos cinall out ko siya sa loob ng main.jsx
+
+Tailwind Utility Classes
+    - 
